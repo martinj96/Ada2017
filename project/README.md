@@ -66,3 +66,7 @@ As stated in the abstract itself, the purpose of this project is to aggregate an
 4. Integration of all data, plot statistics in one interactive platform
 
 Note: In order to win in interactivity we are considering using Leaflet directly, as a framework, but this will require tweaking the code. Leaflet provides more interactivity, but will cost us some flexibility in data manipulation, as it used with JavaScript and not Python. This is the reason why we didn't proceed to building the final version of the maps as we still want to take some time to weigh the pros and cons of this visualization choice.
+
+# Contributions
+
+**Viktor Janevski**: development of project topic, choice of datasets, creating the plan for each milestone, data collection, exploratory data analysis and attribute description, aggregating data and plotting, generating interactive conflict graphs, generating interactive maps, analysis of final results, commenting the code, writing the explanations in the notebook, creating a website that also serves as a platform for the data story, writing the data story, final presentation.
