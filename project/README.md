@@ -1,10 +1,16 @@
 # Title
 **World 2017: Total War**
 
+
 # Abstract
 Seemingly whimsical, the title of this project encloses the harsh reality of how astoundingly primitive we are in the 21st century and how little has actually changed since Medieval times. We attempt to modernise our society in many aspects, invent new technology to make everyday life more pleasant, but at the end of the day, we witness so much violence, intolerance and hatred. Independent of the fact whether it is an inter-country conflict for territory, an organisation requesting rights, a state or region fighting for independence, the truth is these clashes result in numerous casualties, direct or collateral, ruined societies, destroyed lives and terrible loss. And there are much more sparkles on the edge of kindling a fire.
 
 The goal of this project is to make an attempt at uncovering the shocking reality about world conflicts that few people know about because it may not be or have been in the spotlight. Hopefully, observing the aggregated information visualised in a nicely presentable way will help raise awareness of what has been happening in recent history or at the present moment, and bring incentive to start building an improved version of the World.
+
+## Data story
+
+The website containing the data story can be reached following the [link](https://vjan-fin.github.io./)
+
 
 # Research questions
 
@@ -64,8 +70,6 @@ As stated in the abstract itself, the purpose of this project is to aggregate an
 2. Interactive map with markers pinpointing the geographical locations where there was an armed conflict episode in the period 1989-2016
 3. Network diagram visualising a graph structure of interconnected nodes which represent conflicted sides
 4. Integration of all data, plot statistics in one interactive platform
-
-Note: In order to win in interactivity we are considering using Leaflet directly, as a framework, but this will require tweaking the code. Leaflet provides more interactivity, but will cost us some flexibility in data manipulation, as it used with JavaScript and not Python. This is the reason why we didn't proceed to building the final version of the maps as we still want to take some time to weigh the pros and cons of this visualization choice.
 
 # Contributions
 
