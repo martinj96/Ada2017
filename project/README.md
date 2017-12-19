@@ -74,4 +74,5 @@ As stated in the abstract itself, the purpose of this project is to aggregate an
 # Contributions
 
 **Viktor Janevski**: development of project topic, choice of datasets, creating the plan for each milestone, data collection, exploratory data analysis and attribute description, aggregating data and plotting, generating interactive conflict graphs, generating interactive maps, analysis of final results, commenting the code, writing the explanations in the notebook, creating a website that also serves as a platform for the data story, writing the data story, final presentation.
+
 **Konstantinos Tsitsimpikos**: developing host website for the final presentation with interactive features maps, graphs, plots, creating the final poster for the presentation.
